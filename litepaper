@@ -1,0 +1,38 @@
+The Gem Diamond litepaper aims to educate investors including investors of Gem Guard Wallet on our vision, strategy and roadmap.
+
+Introduction
+We will illustrate in detail our unique way of redistribution mechanisms. It is the next generation of “Dividend yield farming” in decentralized finance.
+Gem Diamond and Gem Guard Wallet (GWT) will share equal legitimacy, usecase, support and benefits in this program. 
+ Gem Diamond Token will carry the innovation via reward system. We will share our vision — the most friendly and less hassle in auto claim of GWT reward mechanism.
+
+GDT In A Nutshell
+Gem Diamond is the next generation of a yield — generating contract on the Binance Smart Chain (BSC): you get rewarded in GWT instead of Gem Diamond tokens. 15% of every transaction is split in three:
+7% GWT is redistributed to holders
+3% is used to fuel the liquidity pool exchange growth
+5% GWT is allocated to buyback/ marketing wallet 
+
+Classic Redistribution
+This is a concept that was popularized by Safemoon. The mechanism incentives token holders to hold in order to earn dividends from the transactions (buy and sell). Redistribution is based on percentage (in the contract), current token balance and number of holders. TL; DR: You receive more tokens automatically.
+
+GWT redistribution — How it works?
+We created a unique system that auto claims for every single holder the amount due.
+The way it works for holders: 
+You buy tokens and hold them, every 60 minutes you’ll automatically receive GWT in your wallet. Not a single action is required. 
+Your GEM DIAMOND TOKEN amount is persistent and won’t change. 
+
+Gem Guard Wallet  — As Project 
+Gem Guard Wallet is a multi-coin crypto wallet that securely stores your crypto assets in the most simple and easy way. 
+Truly mobile friendly, supporting major currencies like Bitcoin, BNB, Ethereum, Ripple and more.
+
+
+Gem Diamond Token Codes — Behind The Scenes 
+The contract keeps track in an array of all token holders. Every transaction processes a certain number of users, depending on the transaction size (bigger token transfers can process more, since the gas will still be proportionally less than the value of the tokens). 
+The token is based on a Dividend-Paying Token Standard, which means all Gem Guard Wallet (GWT) the contract gains will be split equally proportionally to the token holders. When a user is processed, the contract checks how many withdrawable dividends they have, and if it is above the minimum threshold for auto-claims, will either automatically claim those dividends for GWT, or automatically buy back tokens for them. 
+
+Other Features 
+Anti-Dump Logic 
+Price protection features such as max tx on sells are included. Any transaction selling more than 0.2% of total supply will be rejected. This prevents massive one time sells that drastically alter the token price. 
+Extra 1% Sell fee swing trading is a common practice that can affect price action. To incentivize holding and reducing pump/dump dynamics, we added an extra 1% sell fee on top of the initial 15% transaction fee. 
+
+Next Step 
+We will do a crowdfunding, a quick tokensale will be conducted and everyone is welcome to join. More informations will be posted in Gem Guard Wallet main telegram chat.
